@@ -2526,7 +2526,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Remembers your writing project across chats: story bible, characters, timeline and continuity checks.
 - [ctxstore](https://ctxstore.ai) `https://mcp.ctxstore.ai/mcp`
   [![ctxstore MCP connector](https://glama.ai/mcp/connectors/ai.ctxstore/ctxstore-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ctxstore/ctxstore-mcp)
-  🔐 - Persistent memory for AI agents: keyed facts, a wake bundle each session, one memory across every model.
+  🔓 - Persistent memory for AI agents: keyed facts, a wake bundle each session, one memory across every model.
 - [Detextit](https://www.detextit.com) `https://www.detextit.com/api/mcp`
   [![Detextit MCP connector](https://glama.ai/mcp/connectors/com.detextit.www/detextit/badges/score.svg)](https://glama.ai/mcp/connectors/com.detextit.www/detextit)
   🔓 - Read-only shared agent context with sources and conditions, plus plans for recovering from task constraints.
